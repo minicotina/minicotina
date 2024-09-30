@@ -1,41 +1,43 @@
+# Nicolás Aranguren García
 
-![Portada](https://via.placeholder.com/800x200.png?text=Bienvenidos+a+mi+perfil)
+![Cover](portadita.jpg)
 
-## Acerca de mí
+## About Me 👋✨
 
-¡Hola! Soy **Nicolás Aranguren García**, estudiante de Estadística en la Universidad Nacional de Colombia. Tengo una gran pasión por la **Ciencia de Datos**, la **Inteligencia Artificial** y el **Business Intelligence**. Siempre estoy buscando maneras de aplicar mis conocimientos estadísticos para resolver problemas del mundo real.
-
----
-
-## Intereses
-
-- **Ciencia de Datos**
-- **Inteligencia Artificial**
-- **Business Intelligence**
+Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the National University of Colombia 🇨🇴. I have a strong passion for **Data Science** 📊, **Artificial Intelligence** 🤖, and **Business Intelligence** 📈. I’m always looking for ways to apply my statistical knowledge to solve real-world problems 🔍.
 
 ---
 
-## Tecnologías que manejo
+## Interests 🌟
+
+- **Data Science** 📊🔍
+- **Artificial Intelligence** 🤖💡
+- **Business Intelligence** 📈📊
+
+---
+
+## Technologies I Use 🛠️💻
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="background-color: #FFB3B3; color: white; padding: 10px; border-radius: 5px;">Python</div>
-    <div style="background-color: #FF9999; color: white; padding: 10px; border-radius: 5px;">R</div>
-    <div style="background-color: #FF6666; color: white; padding: 10px; border-radius: 5px;">SQL</div>
-    <div style="background-color: #FF4D4D; color: white; padding: 10px; border-radius: 5px;">Tableau</div>
-    <div style="background-color: #FF1A1A; color: white; padding: 10px; border-radius: 5px;">Power BI</div>
-    <div style="background-color: #FFB3B3; color: white; padding: 10px; border-radius: 5px;">TensorFlow</div>
-    <div style="background-color: #FF9999; color: white; padding: 10px; border-radius: 5px;">Scikit-learn</div>
-    <div style="background-color: #FF6666; color: white; padding: 10px; border-radius: 5px;">Pandas</div>
-    <div style="background-color: #FF4D4D; color: white; padding: 10px; border-radius: 5px;">Matplotlib</div>
-    <div style="background-color: #FF1A1A; color: white; padding: 10px; border-radius: 5px;">NumPy</div>
+    <div style="background-color: #FFB3B3; color: white; padding: 10px; border-radius: 5px;">🐍 Python</div>
+    <div style="background-color: #FF9999; color: white; padding: 10px; border-radius: 5px;">📊 R</div>
+    <div style="background-color: #FF6666; color: white; padding: 10px; border-radius: 5px;">📅 SQL</div>
+    <div style="background-color: #FF4D4D; color: white; padding: 10px; border-radius: 5px;">📉 Tableau</div>
+    <div style="background-color: #FF1A1A; color: white; padding: 10px; border-radius: 5px;">📊 Power BI</div>
+    <div style="background-color: #FFB3B3; color: white; padding: 10px; border-radius: 5px;">🤖 TensorFlow</div>
+    <div style="background-color: #FF9999; color: white; padding: 10px; border-radius: 5px;">🧠 Scikit-learn</div>
+    <div style="background-color: #FF6666; color: white; padding: 10px; border-radius: 5px;">📊 Pandas</div>
+    <div style="background-color: #FF4D4D; color: white; padding: 10px; border-radius: 5px;">📈 Matplotlib</div>
+    <div style="background-color: #FF1A1A; color: white; padding: 10px; border-radius: 5px;">🔢 NumPy</div>
 </div>
 
 ---
 
-## Contacto
+## Contact 📬🌐
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/nicolas-aranguren) o en mi [GitHub](https://github.com/nicolas-aranguren).
+You can find me on [LinkedIn](https://www.linkedin.com/in/nicolas-aranguren) or on my [GitHub](https://github.com/nicolas-aranguren). I’d love to connect! 🤝✨
 
 ---
 
-¡Gracias por visitar mi perfil!
+Thank you for visiting my profile! 😊🎉
+

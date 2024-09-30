@@ -1,4 +1,3 @@
-# Nicolás Aranguren García
 
 ![Cover](portadita.jpg)
 
@@ -35,7 +34,7 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 
 ## Contact 📬🌐
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/nicolas-aranguren) or on my [GitHub](https://github.com/nicolas-aranguren). I’d love to connect! 🤝✨
+You can find me on [LinkedIn](https://www.linkedin.com/in/minicotina/) or on my [GitHub](https://github.com/minicotina/). I’d love to connect! 🤝✨
 
 ---
 

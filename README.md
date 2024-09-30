@@ -17,24 +17,29 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 
 ## Technologies I Use 🛠️💻
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="background-color: #FFB3B3; color: white; padding: 10px; border-radius: 5px;">🐍 Python</div>
-    <div style="background-color: #FF9999; color: white; padding: 10px; border-radius: 5px;">📊 R</div>
-    <div style="background-color: #FF6666; color: white; padding: 10px; border-radius: 5px;">📅 SQL</div>
-    <div style="background-color: #FF4D4D; color: white; padding: 10px; border-radius: 5px;">📉 Tableau</div>
-    <div style="background-color: #FF1A1A; color: white; padding: 10px; border-radius: 5px;">📊 Power BI</div>
-    <div style="background-color: #FFB3B3; color: white; padding: 10px; border-radius: 5px;">🤖 TensorFlow</div>
-    <div style="background-color: #FF9999; color: white; padding: 10px; border-radius: 5px;">🧠 Scikit-learn</div>
-    <div style="background-color: #FF6666; color: white; padding: 10px; border-radius: 5px;">📊 Pandas</div>
-    <div style="background-color: #FF4D4D; color: white; padding: 10px; border-radius: 5px;">📈 Matplotlib</div>
-    <div style="background-color: #FF1A1A; color: white; padding: 10px; border-radius: 5px;">🔢 NumPy</div>
-</div>
+![Python](https://img.shields.io/badge/%F0%9F%90%8DPython-2A6041?style=for-the-badge)
+![R](https://img.shields.io/badge/%F0%9F%93%8AR-EE4266?style=for-the-badge)
+![SQL](https://img.shields.io/badge/%F0%9F%93%85%20SQL-2A1E5C?style=for-the-badge)
+![Numpy](https://img.shields.io/badge/%F0%9F%94%A2NumPy-0E131F?style=for-the-badge)
 
----
+
+<!--  📉 Tableau  📊 Power BI 🤖 TensorFlow 🧠 Scikit-learn 📊 Pandas 📈 Matplotlib -->
+
+## Pinned Repositories ⭐📁
+
+[![Proyecto 1](https://via.placeholder.com/150)](https://github.com/usuario/proyecto1)
+[![Proyecto 2](https://via.placeholder.com/150)](https://github.com/usuario/proyecto2)
+[![Proyecto 3](https://via.placeholder.com/150)](https://github.com/usuario/proyecto3)
+[![Proyecto 1](https://via.placeholder.com/150)](https://github.com/usuario/proyecto1)
+[![Proyecto 2](https://via.placeholder.com/150)](https://github.com/usuario/proyecto2)
+[![Proyecto 3](https://via.placeholder.com/150)](https://github.com/usuario/proyecto3)
+
 
 ## Contact 📬🌐
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/minicotina/) or on my [GitHub](https://github.com/minicotina/). I’d love to connect! 🤝✨
+You can find me on ![Linkedin](https://img.shields.io/badge/%F0%9F%A4%9DLinkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fminicotina%2F)
+ or on my ![Static Badge](https://img.shields.io/badge/%F0%9F%90%99Github-black?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fminicotina%2F)
+. I’d love to connect! 🤝✨
 
 ---
 

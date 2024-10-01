@@ -33,6 +33,10 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 [![Proyecto 1](https://via.placeholder.com/150)](https://github.com/usuario/proyecto1)
 [![Proyecto 2](https://via.placeholder.com/150)](https://github.com/usuario/proyecto2)
 [![Proyecto 3](https://via.placeholder.com/150)](https://github.com/usuario/proyecto3)
+[![Proyecto 3](https://via.placeholder.com/150)](https://github.com/usuario/proyecto3)
+[![Proyecto 1](https://via.placeholder.com/150)](https://github.com/usuario/proyecto1)
+[![Proyecto 2](https://via.placeholder.com/150)](https://github.com/usuario/proyecto2)
+[![Proyecto 3](https://via.placeholder.com/150)](https://github.com/usuario/proyecto3)
 
 
 ## Contact 📬🌐
